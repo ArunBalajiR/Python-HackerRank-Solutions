@@ -1,0 +1,5 @@
+n=int(input())
+eng=list(map(int,input().split()))
+m=int(input())
+fre=list(map(int,input().split()))
+print(len(set(eng).symmetric_difference(set(fre))))
