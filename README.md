@@ -1,7 +1,4 @@
 
-#Python HackerRank Solutions
-
-
 **This Repo Contains Solutions For HackerRank Python Language Proficiency Challenges**
 
 1. Introuduction
